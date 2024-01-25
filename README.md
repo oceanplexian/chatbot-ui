@@ -1,5 +1,7 @@
 # Chatbot UI
 
+This verison of chatbot UI was preserved before it was altered in December 2023.
+
 ## News
 
 Chatbot UI 2.0 will launch on December 28th, 2023.
