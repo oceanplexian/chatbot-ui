@@ -355,7 +355,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             Welcome to Chatbot UI
           </div>
           <div className="text-center text-lg text-black dark:text-white">
-            <div className="mb-8">{`Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`}</div>
+            <div className="mb-8">{`Chatbot UI is an open source clone of OpenAI's ChatGPT UI. Smoke weed everyday!`}</div>
             <div className="mb-2 font-bold">
               Important: Chatbot UI is 100% unaffiliated with OpenAI.
             </div>
